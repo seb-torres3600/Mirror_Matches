@@ -1,7 +1,7 @@
-# Project 7 
-### (Please ignore the branch named 'Project-6')
+## MirrorMatch game
 
-## MirrorMatch game - Project 7 for OOAD
+- This was a Unity game that was a simple shooter game.
+- Project for OOAD Class
 
 ## Names of Team Members:
 - Jack Ashburn
